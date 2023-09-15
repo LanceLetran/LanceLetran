@@ -26,14 +26,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lanceletran&show_icons=true&locale=en" alt="lanceletran" /></p>
 
 ### Certifications
-- **Ethical Hacking from Scratch**:  
-  ![Ethical Hacking from Scratch](https://drive.google.com/uc?export=view&id=17aUqrIfHOMJth7BKxa4Oj3dgb8zfXhcF)
-- **Website Hacking / Penetration Testing From Scratch**:  
-  ![Website Hacking / Penetration Testing From Scratch](https://drive.google.com/uc?export=view&id=1u0kfH4IifIZohic1Qxu2znNX6WHtUfYU)
-- **Learn Social Engineering From Scratch**:  
-  ![Learn Social Engineering From Scratch](https://drive.google.com/uc?export=view&id=1Z3UvhnT7G2Oa-CLQmf2BRn8I2Gs4qHJO)
-- **Learn Network Hacking From Scratch (WiFi & Wired)**:  
-  ![Learn Network Hacking From Scratch (WiFi & Wired)](https://drive.google.com/uc?export=view&id=1v87OdNLPizdwOSH_3Vptq4aYboiftMEG)
-- **Learn Hacking Using Android From Scratch**:  
-  ![Learn Hacking Using Android From Scratch](https://drive.google.com/uc?export=view&id=1fxifE-pztySuRnSMQ_Xecz6cuTzTDv6x)
+For more details, you can click the certification titles to view the certificates:
+
+- [**Ethical Hacking from Scratch**](https://drive.google.com/file/d/17aUqrIfHOMJth7BKxa4Oj3dgb8zfXhcF/view?usp=drive_link)
+- [**Website Hacking / Penetration Testing From Scratch**](https://drive.google.com/file/d/1u0kfH4IifIZohic1Qxu2znNX6WHtUfYU/view?usp=drive_link)
+- [**Learn Social Engineering From Scratch**](https://drive.google.com/file/d/1Z3UvhnT7G2Oa-CLQmf2BRn8I2Gs4qHJO/view?usp=drive_link)
+- [**Learn Network Hacking From Scratch (WiFi & Wired)**](https://drive.google.com/file/d/1v87OdNLPizdwOSH_3Vptq4aYboiftMEG/view?usp=drive_link)
+- [**Learn Hacking Using Android From Scratch**](https://drive.google.com/file/d/1fxifE-pztySuRnSMQ_Xecz6cuTzTDv6x/view?usp=drive_link)
 
