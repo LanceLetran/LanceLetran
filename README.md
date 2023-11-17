@@ -1,7 +1,7 @@
-<h1 align="center">Lance Alexander Letran 🛡 </h1>
 
 ![DALL·E 2023-11-17 23 08 40 - Design a playful and cartoon-style banner for a GitHub profile with a cybersecurity theme for someone named Lance Alexander Letran  The background sho](https://github.com/LanceLetran/LanceLetran/assets/142746735/5f940fc5-ad70-44fd-9043-1ae92ed73023)
-
+<h1 align="center">Lance Alexander Letran 🛡 </h1>
+<h4 align="center"> Computer Science student at New Era University, driven by a relentless pursuit of knowledge and a deep desire to excel in the digital world.</h4>
 
 
 
