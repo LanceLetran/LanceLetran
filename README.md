@@ -23,12 +23,12 @@
 
 ### Education 🎓
 
-- **Bachelor of Science in Computer Science**
-  - **New Era University - Main Branch**
+- **New Era University - Main Branch**
+  - **Bachelor of Science in Computer Science**
   - Years Attended: 2021 - Present
 
-- **Bachelor of Science in Computer Science**
-  - **University of the East - Manila Branch**
+- **University of the East - Manila Branch**
+  - **Bachelor of Science in Computer Science**
   - Years Attended: 2020 - 2021
 
 - **Senator Rene Cayetano Science and Technology High School**
