@@ -50,7 +50,8 @@ For more details, you can click the certification titles to view the certificate
 - [**FCF Getting Started in Cybersecurity**](https://drive.google.com/file/d/1PkU2zJiDPKYzjV2o-8FxadyZB5OiFIuT/view?usp=sharing) 
 - [**Introduction to Cyber Security**](https://drive.google.com/file/d/1KnXXSN0vQw-E6D0Tj-vIQ9_xFhmZgFdm/view?usp=sharing) 
 - [**Introduction to Cloud Security**](https://drive.google.com/file/d/13HICT958y_29Ikds95li6xbNhg9HB82j/view?usp=sharing) 
-- [**Data Analytics Essentials**](https://drive.google.com/file/d/1sVck82i84rTbG9QZw4rNLbNCKFLmou-o/view?usp=sharing) 
+- [**Data Analytics Essentials**](https://drive.google.com/file/d/1sVck82i84rTbG9QZw4rNLbNCKFLmou-o/view?usp=sharing)
+- [**National Certificate II - Computer Systems Servicing**](https://drive.google.com/file/d/1IG3CTwxZewU-VLq99Zf9vvHJjhdS3KpW/view?usp=sharing)
 
 
 
