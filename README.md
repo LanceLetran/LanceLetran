@@ -44,6 +44,8 @@ For more details, you can click the certification titles to view the certificate
 - [**Learn Social Engineering From Scratch**](https://drive.google.com/file/d/1Z3UvhnT7G2Oa-CLQmf2BRn8I2Gs4qHJO/view?usp=drive_link)
 - [**Learn Network Hacking From Scratch (WiFi & Wired)**](https://drive.google.com/file/d/1v87OdNLPizdwOSH_3Vptq4aYboiftMEG/view?usp=drive_link)
 - [**Learn Hacking Using Android From Scratch**](https://drive.google.com/file/d/1fxifE-pztySuRnSMQ_Xecz6cuTzTDv6x/view?usp=drive_link)
+- [**Fortinet Certified Associate in Cybersecurity**](https://drive.google.com/file/d/1Qsl7yJYzzhIz2rzbL-eCTUILP--5MsEG/view?usp=sharing)
+- [**FCA - FortiGate 7.4 Operator**](https://drive.google.com/file/d/1TQISrJE3tVw-hgALFwjAxHmzZ423oYeL/view?usp=sharing)
 - [**Fortinet Certified Fundamentals In Cybersecurity**](https://drive.google.com/file/d/1io0_MkbD8-vyHZmVKWfQ3pKOG5XWIORz/view?usp=sharing)
 - [**FCF Technical Introduction To Cybersecurity**](https://drive.google.com/file/d/1Q4qfr5D4dX_5Ren3Gl3-GCDaXO16KATb/view?usp=sharing) 
 - [**FCF Introduction To Threat Landscape**](https://drive.google.com/file/d/1Zq9P-jTXqc43C2XFoA53ZC49FqGUEEkj/view?usp=sharing) 
