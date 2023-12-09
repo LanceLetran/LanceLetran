@@ -42,7 +42,6 @@ For more details, you can click the certification titles to view the certificate
 
 - [**CompTIA Security+ (SY0-601) Complete Course & Exam**](https://drive.google.com/file/d/1H5cdL-ht4Sk0u8ZyjtaX4bauRSBtXRNq/view?usp=sharing )
 - [**Fortinet Certified Associate in Cybersecurity**](https://drive.google.com/file/d/1Qsl7yJYzzhIz2rzbL-eCTUILP--5MsEG/view?usp=sharing)
-- [**Fortinet Certified Associate in Cybersecurity**](https://drive.google.com/file/d/1Qsl7yJYzzhIz2rzbL-eCTUILP--5MsEG/view?usp=sharing)
 - [**FCA - FortiGate 7.4 Operator**](https://drive.google.com/file/d/1TQISrJE3tVw-hgALFwjAxHmzZ423oYeL/view?usp=sharing)
 - [**Fortinet Certified Fundamentals In Cybersecurity**](https://drive.google.com/file/d/1io0_MkbD8-vyHZmVKWfQ3pKOG5XWIORz/view?usp=sharing)
 - [**FCF Technical Introduction To Cybersecurity**](https://drive.google.com/file/d/1Q4qfr5D4dX_5Ren3Gl3-GCDaXO16KATb/view?usp=sharing) 
