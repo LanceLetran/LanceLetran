@@ -39,11 +39,9 @@
 ### Certifications 🏅
 For more details, you can click the certification titles to view the certificates:
 
-- [**Ethical Hacking from Scratch**](https://drive.google.com/file/d/17aUqrIfHOMJth7BKxa4Oj3dgb8zfXhcF/view?usp=drive_link)
-- [**Website Hacking / Penetration Testing From Scratch**](https://drive.google.com/file/d/1u0kfH4IifIZohic1Qxu2znNX6WHtUfYU/view?usp=drive_link)
-- [**Learn Social Engineering From Scratch**](https://drive.google.com/file/d/1Z3UvhnT7G2Oa-CLQmf2BRn8I2Gs4qHJO/view?usp=drive_link)
-- [**Learn Network Hacking From Scratch (WiFi & Wired)**](https://drive.google.com/file/d/1v87OdNLPizdwOSH_3Vptq4aYboiftMEG/view?usp=drive_link)
-- [**Learn Hacking Using Android From Scratch**](https://drive.google.com/file/d/1fxifE-pztySuRnSMQ_Xecz6cuTzTDv6x/view?usp=drive_link)
+
+- [**CompTIA Security+ (SY0-601) Complete Course & Exam**](https://drive.google.com/file/d/1H5cdL-ht4Sk0u8ZyjtaX4bauRSBtXRNq/view?usp=sharing )
+- [**Fortinet Certified Associate in Cybersecurity**](https://drive.google.com/file/d/1Qsl7yJYzzhIz2rzbL-eCTUILP--5MsEG/view?usp=sharing)
 - [**Fortinet Certified Associate in Cybersecurity**](https://drive.google.com/file/d/1Qsl7yJYzzhIz2rzbL-eCTUILP--5MsEG/view?usp=sharing)
 - [**FCA - FortiGate 7.4 Operator**](https://drive.google.com/file/d/1TQISrJE3tVw-hgALFwjAxHmzZ423oYeL/view?usp=sharing)
 - [**Fortinet Certified Fundamentals In Cybersecurity**](https://drive.google.com/file/d/1io0_MkbD8-vyHZmVKWfQ3pKOG5XWIORz/view?usp=sharing)
@@ -53,6 +51,11 @@ For more details, you can click the certification titles to view the certificate
 - [**Introduction to Cyber Security**](https://drive.google.com/file/d/1KnXXSN0vQw-E6D0Tj-vIQ9_xFhmZgFdm/view?usp=sharing) 
 - [**Introduction to Cloud Security**](https://drive.google.com/file/d/13HICT958y_29Ikds95li6xbNhg9HB82j/view?usp=sharing) 
 - [**Data Analytics Essentials**](https://drive.google.com/file/d/1sVck82i84rTbG9QZw4rNLbNCKFLmou-o/view?usp=sharing)
+- [**Ethical Hacking from Scratch**](https://drive.google.com/file/d/17aUqrIfHOMJth7BKxa4Oj3dgb8zfXhcF/view?usp=drive_link)
+- [**Website Hacking / Penetration Testing From Scratch**](https://drive.google.com/file/d/1u0kfH4IifIZohic1Qxu2znNX6WHtUfYU/view?usp=drive_link)
+- [**Learn Social Engineering From Scratch**](https://drive.google.com/file/d/1Z3UvhnT7G2Oa-CLQmf2BRn8I2Gs4qHJO/view?usp=drive_link)
+- [**Learn Network Hacking From Scratch (WiFi & Wired)**](https://drive.google.com/file/d/1v87OdNLPizdwOSH_3Vptq4aYboiftMEG/view?usp=drive_link)
+- [**Learn Hacking Using Android From Scratch**](https://drive.google.com/file/d/1fxifE-pztySuRnSMQ_Xecz6cuTzTDv6x/view?usp=drive_link)
 - [**National Certificate II - Computer Systems Servicing**](https://drive.google.com/file/d/1IG3CTwxZewU-VLq99Zf9vvHJjhdS3KpW/view?usp=sharing)
 
 
