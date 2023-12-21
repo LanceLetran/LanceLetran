@@ -39,7 +39,7 @@
 ### Certifications 🏅
 For more details, you can click the certification titles to view the certificates:
 
-
+- [**Official ISC2 CC Online Self-Paced Training - 1M**](https://drive.google.com/file/d/1_lrLCo1VBkeqP5QJiRn0dTCPj-4gPFlN/view?usp=sharing )
 - [**CompTIA Security+ (SY0-601) Complete Course & Exam**](https://drive.google.com/file/d/1H5cdL-ht4Sk0u8ZyjtaX4bauRSBtXRNq/view?usp=sharing )
 - [**Fortinet Certified Associate in Cybersecurity**](https://drive.google.com/file/d/1Qsl7yJYzzhIz2rzbL-eCTUILP--5MsEG/view?usp=sharing)
 - [**FCA - FortiGate 7.4 Operator**](https://drive.google.com/file/d/1TQISrJE3tVw-hgALFwjAxHmzZ423oYeL/view?usp=sharing)
