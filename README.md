@@ -39,6 +39,8 @@
 ### Certifications 🏅
 For more details, you can click the certification titles to view the certificates:
 
+
+- [**Certified in Cybersecurity (CC)**](https://drive.google.com/file/d/1Z-38R4JYdE5scOHjCIhYDw6uU75C0Ihy/view?usp=sharing)
 - [**Official ISC2 CC Online Self-Paced Training - 1M**](https://drive.google.com/file/d/1_lrLCo1VBkeqP5QJiRn0dTCPj-4gPFlN/view?usp=sharing )
 - [**CompTIA Security+ (SY0-601) Complete Course & Exam**](https://drive.google.com/file/d/1H5cdL-ht4Sk0u8ZyjtaX4bauRSBtXRNq/view?usp=sharing )
 - [**Fortinet Certified Associate in Cybersecurity**](https://drive.google.com/file/d/1Qsl7yJYzzhIz2rzbL-eCTUILP--5MsEG/view?usp=sharing)
