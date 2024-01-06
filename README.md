@@ -39,7 +39,7 @@
 ### Certifications 🏅
 For more details, you can click the certification titles to view the certificates:
 
-
+- [**Application Programming Interface (API) Security Best Practices**](https://drive.google.com/file/d/18D4vpRurAvufzkys0yLXOjQDPvatE2SY/view?usp=sharing)
 - [**Supply Chain Risk Management (SCRM) through Governance, Risk, and Compliance (GRC)**](https://drive.google.com/file/d/1qzheZZnFGRWn5EUpF7D9wLfRDUh9CCF2/view?usp=sharing)
 - [**Translating Cyber Risk into Business Language for Effective Leadership**](https://drive.google.com/file/d/1qqCVIbUbacSvk3Uj8nRqVM6Pap6oGEws/view?usp=sharing)
 - [**Zero Trust Architecture in the Cloud**](https://drive.google.com/file/d/1C_9ct1531i8ABimpk2OQfpwHcri9n_V5/view?usp=sharing)
