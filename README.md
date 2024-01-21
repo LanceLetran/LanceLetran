@@ -39,6 +39,7 @@
 ### Certifications 🏅
 For more details, you can click the certification titles to view the certificates:
 
+- [**An Orientation to Cloud Native**](https://drive.google.com/file/d/1wdQmLWWCAbCb6U3iGRanrLerW82Ez-ko/view?usp=sharing)
 - [**Preventing and Mitigating API Data Breaches**](https://drive.google.com/file/d/14WDdhPzktzoym8bvIo9yz0fa6hhteZys/view?usp=sharing)
 - [**Introduction to Denial of Service Attacks**](https://drive.google.com/file/d/1I0OZ-aPIBgsrhIEGYzkJPh9yhCTtuhkH/view?usp=sharing)
 - [**Application Programming Interface (API) Security Best Practices**](https://drive.google.com/file/d/18D4vpRurAvufzkys0yLXOjQDPvatE2SY/view?usp=sharing)
