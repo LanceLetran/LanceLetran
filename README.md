@@ -39,6 +39,8 @@
 ### Certifications 🏅
 For more details, you can click the certification titles to view the certificates:
 
+- [**Master Course in Corporate Governance and IT Governance 2.0**](https://drive.google.com/file/d/1A6uQNuSK7errZI2VOW_OyUOyen6Q158W/view?usp=sharing)
+- [**Master Course in CompTIA Cloud+ (101 level)**](https://drive.google.com/file/d/1SoxB-Bam8SFdTJy4sr1SPRleHfj_3lY3/view?usp=sharing)
 - [**An Orientation to Cloud Native**](https://drive.google.com/file/d/1wdQmLWWCAbCb6U3iGRanrLerW82Ez-ko/view?usp=sharing)
 - [**Preventing and Mitigating API Data Breaches**](https://drive.google.com/file/d/14WDdhPzktzoym8bvIo9yz0fa6hhteZys/view?usp=sharing)
 - [**Introduction to Denial of Service Attacks**](https://drive.google.com/file/d/1I0OZ-aPIBgsrhIEGYzkJPh9yhCTtuhkH/view?usp=sharing)
