@@ -37,8 +37,9 @@
 
 
 ### Certifications 🏅
-For more details, you can click the certification titles to view the certificates:
+For more details, you can click the certification titles to view the certificates: 
 
+- [**What, Why, Who, and How of Cybersecurity Strategy**](https://drive.google.com/file/d/1Vb17I4qC4pO3Pj1y-OSqTN5WGuknLVvW/view?usp=sharing)
 - [**Master Course in Corporate Governance and IT Governance 2.0**](https://drive.google.com/file/d/1A6uQNuSK7errZI2VOW_OyUOyen6Q158W/view?usp=sharing)
 - [**Master Course in CompTIA Cloud+ (101 level)**](https://drive.google.com/file/d/1SoxB-Bam8SFdTJy4sr1SPRleHfj_3lY3/view?usp=sharing)
 - [**An Orientation to Cloud Native**](https://drive.google.com/file/d/1wdQmLWWCAbCb6U3iGRanrLerW82Ez-ko/view?usp=sharing)
