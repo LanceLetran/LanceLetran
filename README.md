@@ -39,6 +39,9 @@
 ### Certifications 🏅
 For more details, you can click the certification titles to view the certificates: 
 
+- [**Data Protection- Classification, Categorization and Security of Data**](https://drive.google.com/file/d/17BWqL4NL39Fn4TBToSWNZFJIoMoLrrII/view?usp=sharing)
+- [**Supply Chain Security**](https://drive.google.com/file/d/1A5li8shzfBESOhg0zPx2LOG9IL2UF-C4/view?usp=sharing)
+- [**Software Security- Real Life - Fixing Forward at Scale**](https://drive.google.com/file/d/17BWqL4NL39Fn4TBToSWNZFJIoMoLrrII/view?usp=sharing)
 - [**What, Why, Who, and How of Cybersecurity Strategy**](https://drive.google.com/file/d/1Vb17I4qC4pO3Pj1y-OSqTN5WGuknLVvW/view?usp=sharing)
 - [**Master Course in Corporate Governance and IT Governance 2.0**](https://drive.google.com/file/d/1A6uQNuSK7errZI2VOW_OyUOyen6Q158W/view?usp=sharing)
 - [**Master Course in CompTIA Cloud+ (101 level)**](https://drive.google.com/file/d/1SoxB-Bam8SFdTJy4sr1SPRleHfj_3lY3/view?usp=sharing)
