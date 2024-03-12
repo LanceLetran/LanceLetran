@@ -39,7 +39,7 @@
 ### Certifications 🏅
 For more details, you can click the certification titles to view the certificates: 
 
-- [**Data Protection- Classification, Categorization and Security of Data**](https://drive.google.com/file/d/17BWqL4NL39Fn4TBToSWNZFJIoMoLrrII/view?usp=sharing)
+- [**Data Protection- Classification, Categorization and Security of Data**](https://drive.google.com/file/d/1qT-NYcHqoOR8e4E4U8_rRb5n1ZvbXPnF/view?usp=sharing)
 - [**Supply Chain Security**](https://drive.google.com/file/d/1A5li8shzfBESOhg0zPx2LOG9IL2UF-C4/view?usp=sharing)
 - [**Software Security- Real Life - Fixing Forward at Scale**](https://drive.google.com/file/d/17BWqL4NL39Fn4TBToSWNZFJIoMoLrrII/view?usp=sharing)
 - [**What, Why, Who, and How of Cybersecurity Strategy**](https://drive.google.com/file/d/1Vb17I4qC4pO3Pj1y-OSqTN5WGuknLVvW/view?usp=sharing)
