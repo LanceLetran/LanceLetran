@@ -39,6 +39,11 @@
 ### Certifications 🏅
 For more details, you can click the certification titles to view the certificates: 
 
+- [**Security in the IoT Ecosystem- Surveying IoT Security Challenges**](https://drive.google.com/file/d/1XiPt2EYvFZJXpKhczVnmYH1Lb34m1Q0Q/view?usp=sharing)
+- [**Global Approaches to Cyber Policy, Legislation, and Regulation**](https://drive.google.com/file/d/14Kb1VBpIgCsBg_WBtI9ksO4ThANywGQf/view?usp=sharing)
+- [**IT:OT Convergence- The Good, the Bad, and the Ugly**](https://drive.google.com/file/d/1ej-GeJhSnMQnUUhdtLA2ZvaQRMt7p5rF/view?usp=sharing)
+- [**Open-Source Intelligence**](https://drive.google.com/file/d/1BiGp0-b6T8aVbWcsAp6QnMeZs_kx8GR1/view?usp=sharing)
+- [**The Future of API Security**](https://drive.google.com/file/d/1UsERIKCZzq2unOJwsaw8pGSldJX9LADY/view?usp=sharing)
 - [**Data Protection- Classification, Categorization and Security of Data**](https://drive.google.com/file/d/1qT-NYcHqoOR8e4E4U8_rRb5n1ZvbXPnF/view?usp=sharing)
 - [**Supply Chain Security**](https://drive.google.com/file/d/1A5li8shzfBESOhg0zPx2LOG9IL2UF-C4/view?usp=sharing)
 - [**Software Security- Real Life - Fixing Forward at Scale**](https://drive.google.com/file/d/17BWqL4NL39Fn4TBToSWNZFJIoMoLrrII/view?usp=sharing)
