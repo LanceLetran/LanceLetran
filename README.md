@@ -1,6 +1,7 @@
 
 ![DALL·E 2023-11-18 13 24 56 - A lively, cartoon-superhero-themed cybersecurity banner for _Lance Letran_  This banner features a character, styled as a mix of cartoon and superhero](https://github.com/LanceLetran/LanceLetran/assets/142746735/94c86bde-7b5a-4cb0-86e1-33b1b3fc374a)
-<h1 align="center">Lance Alexander Letran 🛡 </h1>
+<h1 align="center">Lance Alexander Letran 🛡 </h1> 
+<h1 align="center">Certified Cybersecurity Professional </h1>
 <h4 align="center"> Computer Science student at New Era University, driven by a relentless pursuit of knowledge and a deep desire to excel in the digital world.</h4>
 
 
