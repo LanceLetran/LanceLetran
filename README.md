@@ -39,6 +39,11 @@
 ### Certifications 🏅
 For more details, you can click the certification titles to view the certificates: 
 
+- [**ICS Convergence**](https://drive.google.com/file/d/1r8aq5dcNxtoBXJSIr-EAU1qNo76QLQdk/view?usp=sharing)
+- [**Eight Steps to Establish a Successful Governance, Risk, and Compliance Program**](https://drive.google.com/file/d/1V6aPMJJI9oQBBr3wdvwE1Q15cFLbyqvE/view?usp=sharing)
+- [**First Steps for Supply Chain Security**](https://drive.google.com/file/d/11gkAROe5EZ8WlOypT4zBTuCz2942JVTE/view?usp=sharing)
+- [**Budget and Talent Shortfalls**](https://drive.google.com/file/d/11gR0kCTEwuRmofuXu-1_qmh8Pp4VXi4a/view?usp=sharing)
+- [**Guidance for Maintaining GRC and Security Posture for Multi-Cloud Infrastructures**](https://drive.google.com/file/d/1biHk6Y4DIFi9Wteak0e88J8ZIZrMSU53/view?usp=sharing)
 - [**Security in the IoT Ecosystem- Surveying IoT Security Challenges**](https://drive.google.com/file/d/1XiPt2EYvFZJXpKhczVnmYH1Lb34m1Q0Q/view?usp=sharing)
 - [**Global Approaches to Cyber Policy, Legislation, and Regulation**](https://drive.google.com/file/d/14Kb1VBpIgCsBg_WBtI9ksO4ThANywGQf/view?usp=sharing)
 - [**IT:OT Convergence- The Good, the Bad, and the Ugly**](https://drive.google.com/file/d/1ej-GeJhSnMQnUUhdtLA2ZvaQRMt7p5rF/view?usp=sharing)
