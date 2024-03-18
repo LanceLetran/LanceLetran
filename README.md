@@ -40,6 +40,7 @@
 ### Certifications 🏅
 For more details, you can click the certification titles to view the certificates: 
 
+- [**EC-Council Network Defense Essentials**](https://drive.google.com/file/d/1lc-NBXd-fqLhryb8TAN7qU5dPfP-l9B_/view?usp=sharing)
 - [**ICS Convergence**](https://drive.google.com/file/d/1r8aq5dcNxtoBXJSIr-EAU1qNo76QLQdk/view?usp=sharing)
 - [**Eight Steps to Establish a Successful Governance, Risk, and Compliance Program**](https://drive.google.com/file/d/1V6aPMJJI9oQBBr3wdvwE1Q15cFLbyqvE/view?usp=sharing)
 - [**First Steps for Supply Chain Security**](https://drive.google.com/file/d/11gkAROe5EZ8WlOypT4zBTuCz2942JVTE/view?usp=sharing)
