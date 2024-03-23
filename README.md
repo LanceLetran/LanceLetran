@@ -40,6 +40,7 @@
 ### Certifications 🏅
 For more details, you can click the certification titles to view the certificates: 
 
+- [**Cisco Introduction to Cybersecurity**](https://drive.google.com/file/d/15Mo_DRU6KvjhTs_sTHVI0aX0YSAND_mz/view?usp=sharing)
 - [**EC-Council Network Defense Essentials**](https://drive.google.com/file/d/1lc-NBXd-fqLhryb8TAN7qU5dPfP-l9B_/view?usp=sharing)
 - [**ICS Convergence**](https://drive.google.com/file/d/1r8aq5dcNxtoBXJSIr-EAU1qNo76QLQdk/view?usp=sharing)
 - [**Eight Steps to Establish a Successful Governance, Risk, and Compliance Program**](https://drive.google.com/file/d/1V6aPMJJI9oQBBr3wdvwE1Q15cFLbyqvE/view?usp=sharing)
