@@ -40,6 +40,7 @@
 ### Certifications 🏅
 For more details, you can click the certification titles to view the certificates: 
 
+- [**CompTIA Security+ SY0-601**](https://drive.google.com/file/d/1__JafDAxm9hXHL61edy9LxU8ZXFn8-Gx/view?usp=sharing)
 - [**Cisco Introduction to Cybersecurity**](https://drive.google.com/file/d/15Mo_DRU6KvjhTs_sTHVI0aX0YSAND_mz/view?usp=sharing)
 - [**EC-Council Network Defense Essentials**](https://drive.google.com/file/d/1lc-NBXd-fqLhryb8TAN7qU5dPfP-l9B_/view?usp=sharing)
 - [**ICS Convergence**](https://drive.google.com/file/d/1r8aq5dcNxtoBXJSIr-EAU1qNo76QLQdk/view?usp=sharing)
