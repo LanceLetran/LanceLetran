@@ -17,7 +17,7 @@
     <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="lanzeeboo" />
   </a>
    <a href="https://www.linkedin.com/in/lance-alexander-letran-2518a129a/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="troy-pardillo" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lance-alexander-letran"  />
   </a>
 </p>
 
