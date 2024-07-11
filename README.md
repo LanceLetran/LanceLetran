@@ -18,9 +18,6 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
 
 ### Education 🎓
 
@@ -85,8 +82,70 @@ For more details, you can click the certification titles to view the certificate
 - [**Learn Hacking Using Android From Scratch**](https://drive.google.com/file/d/1fxifE-pztySuRnSMQ_Xecz6cuTzTDv6x/view?usp=drive_link)
 - [**National Certificate II - Computer Systems Servicing**](https://drive.google.com/file/d/1IG3CTwxZewU-VLq99Zf9vvHJjhdS3KpW/view?usp=sharing)
 
+### Tech Achievements
+#### Power BI Projects
+1. **Tableau Dashboarding**: [https://public.tableau.com/app/profile/lance.letran/viz/AwesomeChocolateDashboardReport_17153163345720/AwesomeChocolateDashboardReport?publish=yes]
+2. **Soda Report for the Year 2022**: [https://app.powerbi.com/view?r=eyJrIjoiYjBhMWIwNWItN2Q2ZS00ODM4LTgwZjYtMjNlZmYwYTMyMmFkIiwidCI6ImU0YWU1ZDRjLTIyOGItNGQ5Yy05NDQ3LTUwOTQwMjM3ZjFhZCIsImMiOjEwfQ%3D%3D]
+3. **Snack Report using DAX**: [https://app.powerbi.com/view?r=eyJrIjoiYzY2NDcxMjgtZTM4Mi00ZGMyLWExMzktMzhlNzJiYmRlY2U1IiwidCI6ImU0YWU1ZDRjLTIyOGItNGQ5Yy05NDQ3LTUwOTQwMjM3ZjFhZCIsImMiOjEwfQ%3D%3D]
 
+#### Software Engineering Design Patterns
+1. **SOLID-with-Design-Pattern**: [https://github.com/LanceLetran/SOLID-with-Design-Pattern]
+2. **VisitorDesignPattern**: [https://github.com/LanceLetran/VisitorDesignPattern]
+3. **StateDesignPattern**: [https://github.com/LanceLetran/StateDesignPattern]
+4. **StrategyPattern**: [https://github.com/LanceLetran/StrategyPattern]
+5. **BuilderPattern**: [https://github.com/LanceLetran/builderPattern]
 
+### Skill Set
+#### Data Visualization Tools
+<p align="left"> 
+  <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="40" height="40"/> 
+  </a> 
+  <a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" width="40" height="40"/> 
+  </a> 
+</p>
+
+#### Programming Languages
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+</p>
+
+#### DBMS
+<p align="left"> 
+  <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer"> 
+    <img src="https://www.db2tutorial.com/wp-content/uploads/2019/03/db2-tutorial.png" alt="DB2" width="40" height="40"/> 
+  </a> 
+</p>
+
+#### Development Tools
+<p align="left"> 
+  <a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7b9P_feX1yThfg-k6-N0TyGHKMa5a7YusA&s" alt="Lucidchart" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Eclipse" width="40" height="40"/> 
+  </a> 
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="Visual Studio" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
+    <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Android Studio" width="40" height="40"/> 
+  </a> 
 </p>
 
 
