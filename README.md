@@ -95,59 +95,51 @@ For more details, you can click the certification titles to view the certificate
 - [**StrategyPattern**](https://github.com/LanceLetran/StrategyPattern.git)
 - [**BuilderPattern**](https://github.com/LanceLetran/builderPattern.git)
 
+
 ### Skill Set 💻
-#### Data Visualization Tools
-<p align="left"> 
-  <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="40" height="40"/> 
-  </a> 
-  <a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" width="40" height="40"/> 
-  </a> 
-</p>
 
-#### Programming Languages
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Data Visualization Tools</strong></td>
+      <td>
+        <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/></a>
+        <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Programming Languages</strong></td>
+      <td>
+        <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
+        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+        <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>DBMS</strong></td>
+      <td>
+        <a href="https://www.ibm.com/products/db2"><img src="https://img.shields.io/badge/DB2-0033A0?style=for-the-badge&logo=ibm&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Dev Tools</strong></td>
+      <td>
+        <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/></a>
+        <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></a>
+        <a href="https://lucidchart.com/"><img src="https://img.shields.io/badge/Lucidchart-FC9E4F?style=for-the-badge&logo=lucidchart&logoColor=black"/></a>
+        <a href="https://community.jaspersoft.com/"><img src="https://img.shields.io/badge/JasperSoft-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
+        <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+        <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-#### DBMS
-<p align="left"> 
-  <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer"> 
-    <img src="https://www.db2tutorial.com/wp-content/uploads/2019/03/db2-tutorial.png" alt="DB2" width="40" height="40"/> 
-  </a> 
-</p>
-
-#### Development Tools
-<p align="left"> 
-  <a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7b9P_feX1yThfg-k6-N0TyGHKMa5a7YusA&s" alt="Lucidchart" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Eclipse" width="40" height="40"/> 
-  </a> 
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="Visual Studio" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
-    <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Android Studio" width="40" height="40"/> 
-  </a> 
-</p>
-
+<br/>
 
 <!-- Clear the float -->
 <div style="clear: both;"></div>
