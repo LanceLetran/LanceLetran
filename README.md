@@ -10,17 +10,14 @@
 
 - ⚡ Fun fact: **I hate Okra**
 
+<p align="left">
   <a href="https://fb.com/lanzebuu" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Facebook-%234267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="lanzebuu" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lanzebuu" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/lanzeeboo" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="lanzeeboo" />
-  </a>
-   <a href="https://www.linkedin.com/in/lance-alexander-letran-2518a129a/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lance-alexander-letran"  />
+  <a href="https://www.linkedin.com/in/lance-alexander-letran-2518a129a/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lance-alexander-letran" height="30" width="40" />
   </a>
 </p>
-
 
 ### Education 🎓
 
