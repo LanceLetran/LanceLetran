@@ -84,16 +84,16 @@ For more details, you can click the certification titles to view the certificate
 
 ### Tech Achievements
 #### Power BI Projects
--[**Tableau Dashboarding**]:(https://public.tableau.com/app/profile/lance.letran/viz/AwesomeChocolateDashboardReport_17153163345720/AwesomeChocolateDashboardReport?publish=yes)
--[**Soda Report for the Year 2022**]:(https://app.powerbi.com/view?r=eyJrIjoiYjBhMWIwNWItN2Q2ZS00ODM4LTgwZjYtMjNlZmYwYTMyMmFkIiwidCI6ImU0YWU1ZDRjLTIyOGItNGQ5Yy05NDQ3LTUwOTQwMjM3ZjFhZCIsImMiOjEwfQ%3D%3D)
--[**Snack Report using DAX**]:(https://app.powerbi.com/view?r=eyJrIjoiYzY2NDcxMjgtZTM4Mi00ZGMyLWExMzktMzhlNzJiYmRlY2U1IiwidCI6ImU0YWU1ZDRjLTIyOGItNGQ5Yy05NDQ3LTUwOTQwMjM3ZjFhZCIsImMiOjEwfQ%3D%3D)
+- [**Tableau Dashboarding**]:(https://public.tableau.com/app/profile/lance.letran/viz/AwesomeChocolateDashboardReport_17153163345720/AwesomeChocolateDashboardReport?publish=yes)
+- [**Soda Report for the Year 2022**]:(https://app.powerbi.com/view?r=eyJrIjoiYjBhMWIwNWItN2Q2ZS00ODM4LTgwZjYtMjNlZmYwYTMyMmFkIiwidCI6ImU0YWU1ZDRjLTIyOGItNGQ5Yy05NDQ3LTUwOTQwMjM3ZjFhZCIsImMiOjEwfQ%3D%3D)
+- [**Snack Report using DAX**]:(https://app.powerbi.com/view?r=eyJrIjoiYzY2NDcxMjgtZTM4Mi00ZGMyLWExMzktMzhlNzJiYmRlY2U1IiwidCI6ImU0YWU1ZDRjLTIyOGItNGQ5Yy05NDQ3LTUwOTQwMjM3ZjFhZCIsImMiOjEwfQ%3D%3D)
 
 #### Software Engineering Design Patterns
--[**SOLID-with-Design-Pattern**]:(https://github.com/LanceLetran/SOLID-with-Design-Pattern)
--[**VisitorDesignPattern**]:(https://github.com/LanceLetran/VisitorDesignPattern)
--[**StateDesignPattern**]:(https://github.com/LanceLetran/StateDesignPattern)
--[**StrategyPattern**]:(https://github.com/LanceLetran/StrategyPattern)
--[**BuilderPattern**]:(https://github.com/LanceLetran/builderPattern)
+- [**SOLID-with-Design-Pattern**]:(https://github.com/LanceLetran/SOLID-with-Design-Pattern.git)
+- [**VisitorDesignPattern**]:(https://github.com/LanceLetran/VisitorDesignPattern.git)
+- [**StateDesignPattern**]:(https://github.com/LanceLetran/StateDesignPattern.git)
+- [**StrategyPattern**]:(https://github.com/LanceLetran/StrategyPattern.git)
+- [**BuilderPattern**]:(https://github.com/LanceLetran/builderPattern.git)
 
 ### Skill Set
 #### Data Visualization Tools
