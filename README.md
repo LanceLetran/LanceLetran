@@ -82,20 +82,20 @@ For more details, you can click the certification titles to view the certificate
 - [**Learn Hacking Using Android From Scratch**](https://drive.google.com/file/d/1fxifE-pztySuRnSMQ_Xecz6cuTzTDv6x/view?usp=drive_link)
 - [**National Certificate II - Computer Systems Servicing**](https://drive.google.com/file/d/1IG3CTwxZewU-VLq99Zf9vvHJjhdS3KpW/view?usp=sharing)
 
-### Tech Achievements
-#### Power BI Projects 📈
+### Tech Achievements 🌐
+#### Power BI Projects 
 - [**Tableau Dashboarding**](https://public.tableau.com/app/profile/lance.letran/viz/AwesomeChocolateDashboardReport_17153163345720/AwesomeChocolateDashboardReport?publish=yes)
 - [**Soda Report for the Year 2022**](https://app.powerbi.com/view?r=eyJrIjoiYjBhMWIwNWItN2Q2ZS00ODM4LTgwZjYtMjNlZmYwYTMyMmFkIiwidCI6ImU0YWU1ZDRjLTIyOGItNGQ5Yy05NDQ3LTUwOTQwMjM3ZjFhZCIsImMiOjEwfQ%3D%3D)
 - [**Snack Report using DAX**](https://app.powerbi.com/view?r=eyJrIjoiYzY2NDcxMjgtZTM4Mi00ZGMyLWExMzktMzhlNzJiYmRlY2U1IiwidCI6ImU0YWU1ZDRjLTIyOGItNGQ5Yy05NDQ3LTUwOTQwMjM3ZjFhZCIsImMiOjEwfQ%3D%3D)
 
-#### Software Engineering Design Patterns 💻
+#### Software Engineering Design Patterns 
 - [**SOLID-with-Design-Pattern**](https://github.com/LanceLetran/SOLID-with-Design-Pattern.git)
 - [**VisitorDesignPattern**](https://github.com/LanceLetran/VisitorDesignPattern.git)
 - [**StateDesignPattern**](https://github.com/LanceLetran/StateDesignPattern.git)
 - [**StrategyPattern**](https://github.com/LanceLetran/StrategyPattern.git)
 - [**BuilderPattern**](https://github.com/LanceLetran/builderPattern.git)
 
-### Skill Set
+### Skill Set 💻
 #### Data Visualization Tools
 <p align="left"> 
   <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> 
